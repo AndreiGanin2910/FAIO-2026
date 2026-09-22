@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+**/train.csv
+**/test.csv
+**/train (1).csv
+**/solution.csv
+**/comet_features.parquet
+**/comet_features.json
+**/itn_model_final/
+*.ckpt
+*.pt
